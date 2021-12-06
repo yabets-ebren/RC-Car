@@ -1,5 +1,3 @@
-# RC-Car
--- EGEN 310 - project -- A simple graphical user interface made using remotexy library and source code.
 
 # 4 DC motors, HC-05 bluetooth module, Arduino uno, and Adafruits motorshield V2 were used  
 
